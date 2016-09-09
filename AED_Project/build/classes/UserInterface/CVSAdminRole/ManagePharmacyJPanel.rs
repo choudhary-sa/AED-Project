@@ -1,0 +1,6 @@
+userInterface.CVSAdminRole.ManagePharmacyJPanel$1
+userInterface.CVSAdminRole.ManagePharmacyJPanel$2
+userInterface.CVSAdminRole.ManagePharmacyJPanel$3
+userInterface.CVSAdminRole.ManagePharmacyJPanel$4
+userInterface.CVSAdminRole.ManagePharmacyJPanel$5
+userInterface.CVSAdminRole.ManagePharmacyJPanel

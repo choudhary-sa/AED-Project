@@ -1,0 +1,6 @@
+userInterface.CVSAdminRole.ManageStoreDrugCatalogJPanel$4
+userInterface.CVSAdminRole.ManageStoreDrugCatalogJPanel$5
+userInterface.CVSAdminRole.ManageStoreDrugCatalogJPanel$2
+userInterface.CVSAdminRole.ManageStoreDrugCatalogJPanel$3
+userInterface.CVSAdminRole.ManageStoreDrugCatalogJPanel$1
+userInterface.CVSAdminRole.ManageStoreDrugCatalogJPanel

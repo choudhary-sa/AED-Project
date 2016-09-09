@@ -1,0 +1,3 @@
+userInterface.CVSAdminRole.CheckInventoryJPanel
+userInterface.CVSAdminRole.CheckInventoryJPanel$2
+userInterface.CVSAdminRole.CheckInventoryJPanel$1
